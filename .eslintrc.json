@@ -90,8 +90,9 @@
       "version": "detect"
     },
     "import/resolver": {
-      "node": {
-        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      "alias": {
+        "map": [["~", "./src"]],
+        "extensions": [".js", ".ts", ".tsx", ".jsx", ".json"]
       }
     }
   }
