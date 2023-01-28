@@ -8,15 +8,13 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    background: ${({ theme }) => theme.colors['base-background']};
-    color: ${({ theme }) => theme.colors['base-text']};
     font-family: Roboto, 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
   }
 
   body, input, textarea, button {
     font-weight: 400;
-    font-size: ${({ theme }) => theme.textSizes['text-text-m']};
+    font-size: ${({ theme }) => theme.textSizes['text-md']};
     line-height: 160%;
   }
 
