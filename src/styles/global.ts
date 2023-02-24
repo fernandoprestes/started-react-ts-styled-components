@@ -9,6 +9,7 @@ export const GlobalStyles = createGlobalStyle`
 
   body {
     font-family: Roboto, 'Open Sans', sans-serif;
+    font-variant-numeric: tabular-nums;
     -webkit-font-smoothing: antialiased;
   }
 
