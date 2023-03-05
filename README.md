@@ -8,6 +8,7 @@ Este repositório é um laboratorio de estudos e serve como um template para pro
 - [ReactTS](https://pt-br.reactjs.org/)
 - [React-Router](https://reactrouter.com/en/main)
 - [Typescript](https://www.typescriptlang.org/)
+- [styled-components](https://styled-components.com/)]
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [husky](https://typicode.github.io/husky/#/)
